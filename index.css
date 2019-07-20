@@ -83,3 +83,7 @@ img{
 	border: solid 1px #f8f8f8;
 }
 
+
+.dropdown-backdrop {
+    position: static;
+}
