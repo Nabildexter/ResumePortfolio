@@ -12,12 +12,21 @@ body{
 
 
 
-	font-family: Lato;
+	font-family: ubuntu;
 	color: white;
 }
 
+h1{
+	font-size: 2em;
+	font-weight: 500;
+}
+
+h2{
+	font-weight: 700;
+}
+
 html{
-	height: 100%;
+	height: 100%
 	width: 100%;
 }
 
@@ -29,6 +38,7 @@ html{
 }
 
 .captions{
+	color: white;
 	font-weight: 700;
 	font-size: 5em;
 }
@@ -50,14 +60,12 @@ hr{
 	background-color: transparent;
 	margin-bottom: 0px;
     border: none;
-
 }
 
 .coverphoto{
   border: #111835 solid 2px;
   width: 100%;
   height: 650px;
-
 
   background: url(https://d1dzqwexhp5ztx.cloudfront.net/imageRepo/7/0/104/223/842/S_Victoria_BC_Night_S.jpg);
   background-size: cover;
@@ -75,16 +83,23 @@ hr{
 }
 
 p{
-	color:black;
+	color:#434343;
+	font-size: 18px;
+	font-weight: 100;
 }
 
 /*Controls Portrait*/
 img{
 	border-radius:100%;
 	border: solid 1px #f8f8f8;
+
 }
 
 .col-lg-12, .col-md-6{
 	padding-right: 0px;
 	padding-left: 0px;
+}
+
+.navbar-brand{
+	font-weight: 700;
 }
