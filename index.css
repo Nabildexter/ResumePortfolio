@@ -1,0 +1,92 @@
+.nav-item:hover{
+	font-weight: 1000;
+}
+
+
+#navbarNav{
+	position: relative;
+}
+
+.nav-item{
+	font-size: 18px;
+}
+
+.navbar-brand{
+	font-weight: 500;
+}
+
+.active{
+	font-weight: 500;
+}
+
+
+.bg-light{
+	background-color: #f8f9fa !important;
+	opacity: .80; 
+}
+
+.fixed-top{
+	position: absolute;
+}
+
+body{
+/*	text-align: center;
+*/	background-color: #FFFDF8;
+}
+
+.Coverphoto{
+/*	border: #111835 solid 2px;
+*/	width: 100%;
+	height: 550px;
+
+	/*http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg*/
+	background: url(http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+
+.captions{
+	text-align: center;
+	color: white;
+	text-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 13px 23px 23px rgba(0, 0, 0, 1);
+}
+
+/*Controls Round Picture*/
+img{
+	margin-top: 85px;
+	border-radius:100%;
+	border: solid 2px #f8f8f8;
+}
+
+
+.btn{
+	font-size: 25px;
+}
+
+/*Rows*/
+.row{
+	text-align: center;
+}
+
+.course{
+}
+
+hr{
+	border-top: 2px solid #BAB897;
+	border-bottom: 2px solid rba(0, 0, 0, .2);	
+}
+
+.card-text{
+	text-align: center;
+}
+
+ul{
+	text-align: left;
+}
+
+.btn-outline-dark:hover{
+	background: lightgrey;
+}
