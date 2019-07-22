@@ -39,6 +39,8 @@ html{
 	color: white;
 	font-weight: 700;
 	font-size: 5em;
+	text-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 13px 23px 23px rgba(0, 0, 0, 1);
+
 }
 
 hr{
