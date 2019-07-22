@@ -29,7 +29,7 @@
 
 .bg-light{
 /*	background-color: #f8f9fa !important;
-*/	opacity: .70; 
+*/	opacity: .60; 
 	background-color: #f8f9fa !important;
 
 }
@@ -50,6 +50,10 @@
 	color: red;
 }
 
+.navbar-brand{
+	font-weight: 700;
+}
+
 
 .navbar-light .navbar-nav .nav-link{
  	color: black;
@@ -61,12 +65,13 @@
 body{
 /*	text-align: center;
 */	background-color: #FFFDF8;
+	background: url(https://media.istockphoto.com/photos/abstract-rustic-surface-white-wood-table-texture-background-close-up-picture-id847516464?k=6&m=847516464&s=612x612&w=0&h=OFgoeUutejjAe5nRilVb0fo6A98HQuB2POaKZuBrVb4=);
 }
 
 .Coverphoto{
 /*	border: #111835 solid 2px;
 */	width: 100%;
-	height: 550px;
+	height: 33%;
 
 	/*http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg*/
 	background: url(http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg);
@@ -80,19 +85,20 @@ body{
 .captions{
 	text-align: center;
 	color: white;
-	text-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 13px 23px 23px rgba(0, 0, 0, 1);
+	text-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 0px 0px 0px rgba(0, 0, 0, 1);
 }
 
 /*Controls Round Picture*/
 img{
-	margin-top: 85px;
+	margin-top: 80px;
 	border-radius:100%;
 	border: solid 2px #f8f8f8;
 }
 
 /*Controls Round Picture*/
 img:hover{
-	margin-top: 80px;
+	margin-top: 75px;
+	margin-bottom:5px;
 	border-radius:100%;
 	border: solid 2px #f8f8f8;
 }
