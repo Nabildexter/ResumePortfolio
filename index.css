@@ -9,6 +9,9 @@
 
 }
 
+.selected{
+ 	background: lightgrey;
+}
 
 
 .nav-item{
