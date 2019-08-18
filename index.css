@@ -73,7 +73,9 @@
 body{
 /*	text-align: center;
 */	background-color: #FFFDF8;
-	background: url(https://media.istockphoto.com/photos/abstract-rustic-surface-white-wood-table-texture-background-close-up-picture-id847516464?k=6&m=847516464&s=612x612&w=0&h=OFgoeUutejjAe5nRilVb0fo6A98HQuB2POaKZuBrVb4=);
+	background: url(http://www.dsfranklin.org/wp-content/uploads/2019/06/background-site.jpg);
+	background-size: cover;
+	/*https://www.google.com/search?safe=strict&tbm=isch&q=tech+website+background&chips=q:tech+website+background,g_1:cool:LD1uQf4QrTs%3D&usg=AI4_-kQZvdTbFrscH5sgc1EHRMnYGY15gA&sa=X&ved=0ahUKEwjAp9Ds3ovkAhWRrZ4KHWptB2oQ4lYIKygA&biw=1474&bih=762&dpr=1.25#imgrc=TZlZ806zLbB2aM:*/
 }
 
 .Coverphoto{
