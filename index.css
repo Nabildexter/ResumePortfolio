@@ -75,6 +75,8 @@ body{
 */	background-color: #FFFDF8;
 	background: url(http://www.dsfranklin.org/wp-content/uploads/2019/06/background-site.jpg);
 	background-size: cover;
+  filter: blur(0);
+
 	/*https://www.google.com/search?safe=strict&tbm=isch&q=tech+website+background&chips=q:tech+website+background,g_1:cool:LD1uQf4QrTs%3D&usg=AI4_-kQZvdTbFrscH5sgc1EHRMnYGY15gA&sa=X&ved=0ahUKEwjAp9Ds3ovkAhWRrZ4KHWptB2oQ4lYIKygA&biw=1474&bih=762&dpr=1.25#imgrc=TZlZ806zLbB2aM:*/
 }
 
@@ -95,9 +97,9 @@ body{
 */	width: 100%;
 
 	/*https://upload.wikimedia.org/wikipedia/commons/3/36/UVic_Bookstore.jpg*/
-	background: url(https://upload.wikimedia.org/wikipedia/commons/3/36/UVic_Bookstore.jpg);
+	background: url(https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.0-8/10431186_752761358109191_1753508565964397605_o.jpg?_nc_cat=108&_nc_oc=AQl0bCw5FDqWwhddmr0OhZZC9hUex9w-2kFIpR7eFfSwOZ-INDaOxE5Lg-05yU5T69Y&_nc_ht=scontent.fyvr3-1.fna&oh=c2452bd1f804fc95ba4528df48525ac6&oe=5EC6617C);
 	background-size: cover;
-	background-position: center;
+	background-position: 0 -30px;
 	background-repeat: no-repeat;
 	border-bottom: 1px solid black;
 }
@@ -107,11 +109,12 @@ body{
 */	width: 100%;
 
 	/*http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg*/
-	background: url(https://scontent.fyvr3-1.fna.fbcdn.net/v/t31.0-8/10431186_752761358109191_1753508565964397605_o.jpg?_nc_cat=108&_nc_oc=AQl0bCw5FDqWwhddmr0OhZZC9hUex9w-2kFIpR7eFfSwOZ-INDaOxE5Lg-05yU5T69Y&_nc_ht=scontent.fyvr3-1.fna&oh=c2452bd1f804fc95ba4528df48525ac6&oe=5EC6617C);
+	background: url(https://farm5.staticflickr.com/4863/45856238895_9eea752f9b_b.jpg);
 	background-size: cover;
-	background-position: 0 0;
+	background-position: 0 -250px;
 	background-repeat: no-repeat;
 	border-bottom: 1px solid black;
+
 }
 
 
