@@ -90,6 +90,29 @@ body{
 	border-bottom: 1px solid black;
 }
 
+.CoverphotoCourse{
+/*	border: #111835 solid 2px;
+*/	width: 100%;
+
+	/*http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg*/
+	background: url(https://www.uvic.ca/news-management/stories/2019/ring-busincident/photos/news-communitygathering3.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-bottom: 1px solid black;
+}
+
+.CoverphotoSide{
+/*	border: #111835 solid 2px;
+*/	width: 100%;
+
+	/*http://merrickarch.com/wp-content/uploads/2016/03/16_UVIC_David_Main.jpg*/
+	background: url(https://2.bp.blogspot.com/-GKxL1Ig9H_g/VkEdr-zN0VI/AAAAAAAAAFM/auGiaboZamw/s1600/_DSC0009.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-bottom: 1px solid black;
+}
 
 
 .captions{
