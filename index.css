@@ -176,11 +176,13 @@ img:hover{
 }
 
 /*Rows*/
-.row{
+.captionRow{
 	text-align: center;
+	margin-bottom: 3%;
 }
 
-.course{
+.row{
+	text-align: center;
 }
 
 hr{
