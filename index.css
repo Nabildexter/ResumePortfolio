@@ -186,8 +186,11 @@ img:hover{
 }
 
 hr{
-	border-top: 2px solid #BAB897;
-/*	box-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 0px 0px 0px rgba(0, 0, 0, 1);
+
+	border-top: 3px solid #C9A129;
+
+/*	border-top: 2px solid #BAB897;
+*//*	box-shadow: 4px 4px 4px rgba(0, 0, 0, 1), 13px 13px 13px rgba(0, 0, 0, 1), 0px 0px 0px rgba(0, 0, 0, 1);
 *//*	border-bottom: 2px solid rba(0, 0, 0, .2);	
 */}
 
