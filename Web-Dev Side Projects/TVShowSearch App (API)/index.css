@@ -1,0 +1,49 @@
+body {
+
+	background-repeat: no-repeat;
+	color: whitesmoke;
+	text-align: center;
+    width: 100%;
+    
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/821/82/415/carbon-fiber-pictures-for-desktop-wallpaper-preview.jpg");
+    background-repeat: repeat;
+}
+
+body h1, p {
+    color: whitesmoke;
+
+}
+
+
+img{
+    display: inline-block;
+    margin-bottom: 40px;
+}   
+
+
+.res img{
+    display: inline-block;
+    margin: 20px;
+    opacity: 90%;
+}   
+
+.res img:hover{
+
+    transition: 400ms;
+
+    margin-top: -5px;
+    margin-bottom: +5px;
+
+    border: 5px solid yellow;
+    opacity: 100%;
+}
+
+
+.container {
+    max-width: 50%;
+}
+
+form{
+    margin-bottom: 30px;
+}
+    
