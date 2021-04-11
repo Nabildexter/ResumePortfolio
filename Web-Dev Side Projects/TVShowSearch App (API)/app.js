@@ -46,7 +46,7 @@ const makeImages = (shows) => {
             img.src = result.show.image.medium;
             
 
-            linkT.innerHTML = "<img src=" + img.src + ">";
+            linkT.innerHTML = "<img src=" + img.src + "><span class='caption'>" + result.show.name + "</span>";
 
             results.prepend(linkT)  
         }
